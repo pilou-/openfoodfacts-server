@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: cs\n"
 "Project-Id-Version: openfoodfacts\n"
-"PO-Revision-Date: 2022-04-29 02:45\n"
+"PO-Revision-Date: 2022-05-11 02:41\n"
 "Language-Team: Czech\n"
 "Last-Translator: \n"
 "POT-Creation-Date: \n"
@@ -124,7 +124,7 @@ msgstr "Zadejte prosím název vaší organizace (název společnosti nebo znač
 
 msgctxt "f_this_is_a_pro_account_for_org"
 msgid "This account is a professional account associated with the producer or brand {org}. You have access to the Platform for Producers."
-msgstr ""
+msgstr "Tento účet je profesionální účet spojený s výrobcem nebo značkou {org}. Máte přístup k Platformě pro výrobce."
 
 msgctxt "add_user_email_body"
 msgid "Hello <NAME>,\n\n"
@@ -599,11 +599,11 @@ msgstr "Kód EMB"
 
 msgctxt "emb_code_s"
 msgid "Traceability code"
-msgstr ""
+msgstr "Kód sledovatelnosti"
 
 msgctxt "emb_codes"
 msgid "Traceability code"
-msgstr ""
+msgstr "Kód sledovatelnosti"
 
 msgctxt "emb_codes_p"
 msgid "traceability codes"
@@ -2417,7 +2417,7 @@ msgstr "Produkty, které nebyly zakoupeny v %s"
 
 msgctxt "subscribe"
 msgid "Subscribe"
-msgstr ""
+msgstr "Odebírat"
 
 msgctxt "tag_belongs_to"
 msgid "Belongs to:"
@@ -2461,11 +2461,11 @@ msgstr "stopy"
 
 msgctxt "twitter"
 msgid "Twitter username (optional)"
-msgstr ""
+msgstr "Twitter uživatelské jméno (volitelné)"
 
 msgctxt "twitter_account"
 msgid "OpenFoodFacts"
-msgstr ""
+msgstr "OpenFoodFacts"
 
 msgctxt "unknown"
 msgid "Unknown"
@@ -2473,15 +2473,15 @@ msgstr "Neznámo"
 
 msgctxt "unknown_nutrients_p"
 msgid "unknown nutrients"
-msgstr ""
+msgstr "neznámé živiny"
 
 msgctxt "unknown_nutrients_s"
 msgid "unknown nutrient"
-msgstr ""
+msgstr "neznámá živina"
 
 msgctxt "unsubscribe"
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Odhlásit odběr"
 
 msgctxt "unsubscribe_info"
 msgid "You can unsubscribe from the lists at any time."
@@ -2525,7 +2525,7 @@ msgstr "přispěvatelé"
 
 msgctxt "users_products"
 msgid "Products added by %s"
-msgstr ""
+msgstr "Produkty přidal %s"
 
 msgctxt "users_s"
 msgid "contributor"
@@ -2533,7 +2533,7 @@ msgstr "přispěvatel"
 
 msgctxt "users_without_products"
 msgid "Products not added by %s"
-msgstr ""
+msgstr "Produkty nepřidané od %s"
 
 msgctxt "view"
 msgid "view"
@@ -2541,7 +2541,7 @@ msgstr "zobrazit"
 
 msgctxt "view_list_for_products_from_the_entire_world"
 msgid "View the list for matching products from the entire world"
-msgstr ""
+msgstr "Zobrazit seznam odpovídajících produktů z celého světa"
 
 msgctxt "view_products_from_the_entire_world"
 msgid "View matching products from the entire world"
@@ -2554,11 +2554,12 @@ msgstr "Zobrazit výsledky z celého světa"
 msgctxt "warning_3rd_party_content"
 msgid "Information and data must come from the product package and label (and not from other sites or the manufacturer's site), and you must have taken the pictures yourself.<br/>\n"
 "→ <a href=\"https://support.openfoodfacts.org/help/en-gb/9/27\">Why it matters</a>"
-msgstr ""
+msgstr "Informace a údaje musí pocházet z obalu a štítku produktu (nikoli z jiných stránek nebo stránek výrobce) a musíte si je sami pořídit.<br/>\n"
+"→ <a href=\"https://support.openfoodfacts.org/help/en-gb/9/27\">Proč na tom záleží</a>"
 
 msgctxt "website"
 msgid "Site or blog address"
-msgstr ""
+msgstr "Adresa webu nebo blogu"
 
 # Please change English.svg to French.svg or German.svg… Check the url https://static.openfoodfacts.org/images/misc/microsoft/XXXX.svg
 msgctxt "windows_phone_app_icon_url"
@@ -2567,12 +2568,12 @@ msgstr "/images/misc/microsoft/Czech.svg"
 
 msgctxt "windows_phone_app_icon_alt_text"
 msgid "Get it from Microsoft"
-msgstr ""
+msgstr "Získejte to od společnosti Microsoft"
 
 # Please change en-us to fr-fr, pt-br or de-ch…Check the URL !
 msgctxt "windows_phone_app_link"
 msgid "https://www.microsoft.com/en-us/p/openfoodfacts/9nblggh0dkqr"
-msgstr ""
+msgstr "https://www.microsoft.com/en-us/p/openfoodfacts/9nblggh0dkqr"
 
 msgctxt "you_are_connected_as_x"
 msgid "You are connected as %s."
@@ -2580,19 +2581,19 @@ msgstr "Přihlášen/a jako %s."
 
 msgctxt "product_js_unselect_image"
 msgid "Unselect image"
-msgstr ""
+msgstr "Zrušit výběr obrázku"
 
 msgctxt "product_js_unselecting_image"
 msgid "Unselecting image."
-msgstr ""
+msgstr "Rušení výběru obrázku."
 
 msgctxt "product_js_unselected_image_ok"
 msgid "Unselected image."
-msgstr ""
+msgstr "Nevybraný obrázek."
 
 msgctxt "product_js_unselected_image_nok"
 msgid "Error while unselecting image."
-msgstr ""
+msgstr "Chyba při rušení výběru obrázku."
 
 msgctxt "product_js_zoom_on_wheel"
 msgid "Enable zooming with the mouse wheel."
@@ -3006,7 +3007,7 @@ msgstr ""
 
 msgctxt "volume"
 msgid "Volume"
-msgstr ""
+msgstr "Objem"
 
 msgctxt "other_information"
 msgid "Other information"
@@ -3022,11 +3023,11 @@ msgstr "Varování"
 
 msgctxt "preparation"
 msgid "Preparation"
-msgstr ""
+msgstr "Příprava"
 
 msgctxt "recipe_idea"
 msgid "Recipe idea"
-msgstr ""
+msgstr "Nápad na recept"
 
 msgctxt "origin"
 msgid "Origin of the product and/or its ingredients"
@@ -3046,7 +3047,7 @@ msgstr ""
 
 msgctxt "producer"
 msgid "Producer"
-msgstr ""
+msgstr "Výrobce"
 
 msgctxt "recycling_instructions_to_recycle"
 msgid "Recycling instructions - To recycle"
@@ -3234,15 +3235,15 @@ msgstr "Ne"
 
 msgctxt "button_caption_skip"
 msgid "Skip"
-msgstr ""
+msgstr "Přeskočit"
 
 msgctxt "popularity_s"
 msgid "popularity"
-msgstr ""
+msgstr "oblíbenost"
 
 msgctxt "popularity_p"
 msgid "popularity"
-msgstr ""
+msgstr "oblíbenost"
 
 msgctxt "ingredients_analysis_p"
 msgid "ingredients analysis"
@@ -3270,24 +3271,24 @@ msgstr ""
 
 msgctxt "rev_contributor"
 msgid "Edited by: "
-msgstr ""
+msgstr "Upravil: "
 
 msgctxt "rev_previous"
 msgid "Previous version"
-msgstr ""
+msgstr "Předchozí verze"
 
 msgctxt "rev_next"
 msgid "Next version"
-msgstr ""
+msgstr "Další verze"
 
 msgctxt "rev_latest"
 msgid "Latest version"
-msgstr ""
+msgstr "Nejnovější verze"
 
 # "product data" in this sentence means data for many products, not just one product
 msgctxt "import_data_file_title"
 msgid "Import a product data file"
-msgstr ""
+msgstr "Importovat datový soubor produktu"
 
 # "product data" in this sentence means data for many products, not just one product
 msgctxt "import_data_file_description"
@@ -3322,7 +3323,7 @@ msgstr ""
 
 msgctxt "import_data"
 msgid "Import data"
-msgstr ""
+msgstr "Importovat data"
 
 msgctxt "import_file_rows_columns"
 msgid "The uploaded file contains %s rows and %s columns."
@@ -3963,7 +3964,7 @@ msgstr ""
 
 msgctxt "thank_you"
 msgid "Thank you!"
-msgstr ""
+msgstr "Děkujeme!"
 
 msgctxt "value_for_the_product"
 msgid "Value for the product"
@@ -3989,7 +3990,7 @@ msgstr ""
 
 msgctxt "user_group_producer"
 msgid "Producer"
-msgstr ""
+msgstr "Výrobce"
 
 msgctxt "user_group_producer_description"
 msgid "Must be checked only for accounts of producers who edit their own products. Product ownership will be attributed to producers when they add or edit a product."
@@ -5279,7 +5280,7 @@ msgstr ""
 # Import: use a noun and not a verb
 msgctxt "export_job_import"
 msgid "Import to the public database"
-msgstr ""
+msgstr "Import do veřejné databáze"
 
 # Update: use a noun and not a verb
 msgctxt "export_job_status_update"
@@ -5782,6 +5783,10 @@ msgctxt "nutriscore_missing_nutrition_data"
 msgid "The nutrition facts of the product must be specified in order to compute the Nutri-Score."
 msgstr ""
 
+msgctxt "nutriscore_missing_category_and_nutrition_data"
+msgid "The category and the nutrition facts of the product must be specified in order to compute the Nutri-Score."
+msgstr ""
+
 msgctxt "health"
 msgid "Health"
 msgstr ""
@@ -5836,6 +5841,10 @@ msgstr ""
 
 msgctxt "nutriscore_missing_nutrition_data_short"
 msgid "Missing nutrition facts"
+msgstr ""
+
+msgctxt "nutriscore_missing_category_and_nutrition_data_short"
+msgid "Missing category and nutrition facts"
 msgstr ""
 
 msgctxt "recommendation_who_reduce_or_stop_drinking_alcohol_title"
